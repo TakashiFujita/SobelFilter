@@ -1,0 +1,6 @@
+C:\GitHub\SobelFilter\SobelFilter\bin\Debug\SobelFilter.exe.config
+C:\GitHub\SobelFilter\SobelFilter\bin\Debug\SobelFilter.exe
+C:\GitHub\SobelFilter\SobelFilter\bin\Debug\SobelFilter.pdb
+C:\GitHub\SobelFilter\SobelFilter\obj\Debug\SobelFilter.csprojResolveAssemblyReference.cache
+C:\GitHub\SobelFilter\SobelFilter\obj\Debug\SobelFilter.exe
+C:\GitHub\SobelFilter\SobelFilter\obj\Debug\SobelFilter.pdb
