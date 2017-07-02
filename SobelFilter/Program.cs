@@ -8,9 +8,17 @@ namespace SobelFilter
 {
     class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
             Console.WriteLine("sobel");
+
+            UserParams userParams = new UserParams();
+            if(!userParams.ReadArguments(args))
+            {
+                return 1;
+            }
+
+            return 0;
         }
     }
 }
