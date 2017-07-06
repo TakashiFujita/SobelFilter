@@ -14,14 +14,22 @@ namespace SobelFilter
             get { return _inputFileName; }
         }
 
+        //private string _outputFileName;
+        //public string OutputFileName
+        //{
+        //    get { return _outputFileName; }
+        //}
+
         public bool ReadArguments(string[] args)
         {
-            if(args.Length <1 )
+            if(args.Length < 1 )
             {
                 return false;
             }
 
             _inputFileName = args[0];
+            //_outputFileName = args[1];
+
             return true;
         }
     }
